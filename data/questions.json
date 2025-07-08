@@ -1,0 +1,82 @@
+[
+  {
+    "quest": "Según la Guía UNIT‑ISO/IEC 2:2005, ¿qué NO es un requisito de una norma técnica?",
+    "a": "Reflejar el estado del arte",
+    "b": "Ser de carácter obligatorio",
+    "c": "Tener en cuenta necesidades de usuarios",
+    "d": "Ser aplicable de forma repetida",
+    "ansower": "b"
+  },
+  {
+    "quest": "En el proceso de Normalización, ¿qué implica ‘decisión por consenso’?",
+    "a": "Unanimidad en la aprobación",
+    "b": "Acuerdo de la mayoría y atenuar objeciones de la minoría",
+    "c": "Sólo acuerdo de la mayoría sin considerar minorías",
+    "d": "Aprobación por un ente regulador",
+    "ansower": "b"
+  },
+  {
+    "quest": "¿Cuál de estos documentos NO pertenece al tipo “Documento normativo” según ISO?",
+    "a": "Código de buenas prácticas",
+    "b": "Reglamento técnico",
+    "c": "Informe de auditoría interna",
+    "d": "Especificación técnica",
+    "ansower": "c"
+  },
+  {
+    "quest": "En Control de Calidad, ‘calidad de realización’ se refiere a:",
+    "a": "Disponibilidad operacional del producto",
+    "b": "Grado de concordancia entre el producto y su diseño",
+    "c": "Continuidad de servicio",
+    "d": "Atención al cliente postventa",
+    "ansower": "b"
+  },
+  {
+    "quest": "Según ISO 9000:2015, un ‘objetivo de la calidad’ puede ser:",
+    "a": "Estrategia financiera de la empresa",
+    "b": "Criterio operativo ligado a la política de calidad",
+    "c": "Reglamento técnico externo",
+    "d": "Informe de conformidad",
+    "ansower": "b"
+  },
+  {
+    "quest": "Trampa semántica: ¿Cuál NO es principio de la Normalización?",
+    "a": "Transparencia",
+    "b": "Imparcialidad",
+    "c": "Voluntariedad absoluta",
+    "d": "Coherencia",
+    "ansower": "c"
+  },
+  {
+    "quest": "¿Cuál de estos pasos NO forma parte de Control de Calidad según ISO 9000?",
+    "a": "Elegir la unidad de medida",
+    "b": "Fijar valor estándar",
+    "c": "Definir la política de recursos humanos",
+    "d": "Realizar la medida y actuar",
+    "ansower": "c"
+  },
+  {
+    "quest": "Trampa semántica: La ‘evaluación de la conformidad’ implica:",
+    "a": "Certificación por un tercero",
+    "b": "Inspección y pruebas",
+    "c": "Garantía de calidad de por vida",
+    "d": "Declaración del proveedor",
+    "ansower": "c"
+  },
+  {
+    "quest": "En un reglamento técnico referenciado a normas, la mención ‘sin fecha’ significa:",
+    "a": "Rige automáticamente la última versión",
+    "b": "Sólo aplica a la versión original",
+    "c": "Requiere actualización anual",
+    "d": "Debe acompañarse de fecha obligatoria",
+    "ansower": "a"
+  },
+  {
+    "quest": "Trampa semántica: ¿Cuál NO es un beneficio del Control de Calidad?",
+    "a": "Aumento de la producción",
+    "b": "Conciencia de la calidad",
+    "c": "Incorporar calidad al producto",
+    "d": "Reducción de costos unitarios",
+    "ansower": "c"
+  }
+]
