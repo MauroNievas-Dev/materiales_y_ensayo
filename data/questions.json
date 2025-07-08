@@ -56,12 +56,60 @@
     "ansower": "c"
   },
   {
-    "quest": "Trampa semántica: La ‘evaluación de la conformidad’ implica:",
-    "a": "Certificación por un tercero",
-    "b": "Inspección y pruebas",
-    "c": "Garantía de calidad de por vida",
-    "d": "Declaración del proveedor",
+    "quest": "¿Cómo define la Guía UNIT‑ISO/IEC 2:2005 una norma ISO?",
+    "a": "Documento obligatorio con carácter de ley para todos los estados miembros",
+    "b": "Documento establecido por consenso para un uso común y repetitivo de reglas o características técnicas", 
+    "c": "Requisito contractual impuesto por un organismo internacional", 
+    "d": "Código de buenas prácticas con recomendaciones no vinculantes",
+    "ansower": "b"
+  },
+  {
+    "quest": "¿Cuál es el principio clave detrás de la “decisión por consenso” en normalización?",
+    "a": "Se exige unanimidad total para aprobar cualquier norma",
+    "b": "Se aprueba si la mayoría simple está de acuerdo, sin considerar a la minoría",
+    "c": "Se busca resolver o atenuar las objeciones de la minoría para lograr un acuerdo mayoritario informado", 
+    "d": "Se utiliza una votación ponderada según el tamaño de cada país",
     "ansower": "c"
+  },
+  {
+    "quest": "¿Qué dimensión NO forma parte de la clasificación de normas según la presentación?",
+    "a": "Contenido técnico", 
+    "b": "Nivel de consenso y usuarios previstos", 
+    "c": "Estatus legal", 
+    "d": "Costo de implementación",
+    "ansower": "d"
+  },
+  {
+    "quest": "En el control de calidad, ¿cuál es el tercer paso del procedimiento operativo?",
+    "a": "Elegir lo que se va a controlar", 
+    "b": "Crear un dispositivo para medir la característica", 
+    "c": "Fijar el valor estándar y especificar la característica de calidad", 
+    "d": "Interpretar la diferencia entre lo real y lo estándar",
+    "ansower": "c"
+  },
+  {
+    "quest": "¿Cuál de estas afirmaciones sobre el control de calidad es CORRECTA?",
+    "a": "El control de calidad es responsable de crear la calidad del producto", 
+    "b": "La calidad se obtiene en el proceso de producción; el control solo la verifica", 
+    "c": "El control de calidad puede resolver todos los problemas de fabricación", 
+    "d": "La clasificación de productos y el control de calidad son exactamente lo mismo",
+    "ansower": "b"
+  },
+  {
+    "quest": "Según ISO 9000:2015, ¿qué significa ‘evaluación de la conformidad’?",
+    "a": "Proceso de diseño de un producto para cumplir requisitos", 
+    "b": "Demostración de que se cumplen los requisitos especificados relativos a un producto, proceso, sistema, persona u organismo", 
+    "c": "Certificación obligatoria por parte de un organismo nacional", 
+    "d": "Inspección visual sin pruebas complementarias",
+    "ansower": "b"
+  },
+  {
+    "quest": "¿Cuál es uno de los principales beneficios del control de calidad basado en datos reales?",
+    "a": "Se basa en la experiencia personal y la intuición", 
+    "b": "Permite detectar defectos antes de que aparezcan en el producto final utilizando gráficos de control", 
+    "c": "Elimina la necesidad de instrumental especializado", 
+    "d": "Asegura la unanimidad en la toma de decisiones",
+    "ansower": "b"
   },
   {
     "quest": "En un reglamento técnico referenciado a normas, la mención ‘sin fecha’ significa:",
