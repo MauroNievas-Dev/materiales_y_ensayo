@@ -1,130 +1,88 @@
 [
   {
-    "quest": "Según la Guía UNIT‑ISO/IEC 2:2005, ¿qué NO es un requisito de una norma técnica?",
-    "a": "Reflejar el estado del arte",
-    "b": "Ser de carácter obligatorio",
-    "c": "Tener en cuenta necesidades de usuarios",
-    "d": "Ser aplicable de forma repetida",
-    "ansower": "b"
-  },
-  {
-    "quest": "En el proceso de Normalización, ¿qué implica ‘decisión por consenso’?",
-    "a": "Unanimidad en la aprobación",
-    "b": "Acuerdo de la mayoría y atenuar objeciones de la minoría",
-    "c": "Sólo acuerdo de la mayoría sin considerar minorías",
-    "d": "Aprobación por un ente regulador",
-    "ansower": "b"
-  },
-  {
-    "quest": "¿Cuál de estos documentos NO pertenece al tipo “Documento normativo” según ISO?",
-    "a": "Código de buenas prácticas",
-    "b": "Reglamento técnico",
-    "c": "Informe de auditoría interna",
-    "d": "Especificación técnica",
-    "ansower": "c"
-  },
-  {
-    "quest": "En Control de Calidad, ‘calidad de realización’ se refiere a:",
-    "a": "Disponibilidad operacional del producto",
-    "b": "Grado de concordancia entre el producto y su diseño",
-    "c": "Continuidad de servicio",
-    "d": "Atención al cliente postventa",
-    "ansower": "b"
-  },
-  {
-    "quest": "Según ISO 9000:2015, un ‘objetivo de la calidad’ puede ser:",
-    "a": "Estrategia financiera de la empresa",
-    "b": "Criterio operativo ligado a la política de calidad",
-    "c": "Reglamento técnico externo",
-    "d": "Informe de conformidad",
-    "ansower": "b"
-  },
-  {
-    "quest": "Trampa semántica: ¿Cuál NO es principio de la Normalización?",
-    "a": "Transparencia",
-    "b": "Imparcialidad",
-    "c": "Voluntariedad absoluta",
-    "d": "Coherencia",
-    "ansower": "c"
-  },
-  {
-    "quest": "¿Cuál de estos pasos NO forma parte de Control de Calidad según ISO 9000?",
-    "a": "Elegir la unidad de medida",
-    "b": "Fijar valor estándar",
-    "c": "Definir la política de recursos humanos",
-    "d": "Realizar la medida y actuar",
-    "ansower": "c"
-  },
-  {
     "quest": "¿Cómo define la Guía UNIT‑ISO/IEC 2:2005 una norma ISO?",
     "a": "Documento obligatorio con carácter de ley para todos los estados miembros",
-    "b": "Documento establecido por consenso para un uso común y repetitivo de reglas o características técnicas", 
-    "c": "Requisito contractual impuesto por un organismo internacional", 
+    "b": "Documento establecido por consenso para un uso común y repetitivo de reglas o características técnicas",
+    "c": "Requisito contractual impuesto por un organismo internacional",
     "d": "Código de buenas prácticas con recomendaciones no vinculantes",
-    "ansower": "b"
+    "ansower": "b",
+    "text": "La guía define norma como 'documento establecido por consenso...', destacando su carácter voluntario y de consenso.",
+    "ref": "2025-NORMALIZACION.pdf, págs. 9",
+    "img": "/ControlDeCalidad/2.png",
+    "link": "https://eva.fing.edu.uy/mod/folder/view.php?id=45512"
   },
   {
-    "quest": "¿Cuál es el principio clave detrás de la “decisión por consenso” en normalización?",
+    "quest": "¿Cuál es el principio clave detrás de la 'decisión por consenso' en normalización?",
     "a": "Se exige unanimidad total para aprobar cualquier norma",
     "b": "Se aprueba si la mayoría simple está de acuerdo, sin considerar a la minoría",
-    "c": "Se busca resolver o atenuar las objeciones de la minoría para lograr un acuerdo mayoritario informado", 
+    "c": "Se busca resolver o atenuar las objeciones de la minoría para lograr un acuerdo mayoritario informado",
     "d": "Se utiliza una votación ponderada según el tamaño de cada país",
-    "ansower": "c"
-  },
-  {
-    "quest": "¿Qué dimensión NO forma parte de la clasificación de normas según la presentación?",
-    "a": "Contenido técnico", 
-    "b": "Nivel de consenso y usuarios previstos", 
-    "c": "Estatus legal", 
-    "d": "Costo de implementación",
-    "ansower": "d"
+    "ansower": "c",
+    "text": "El consenso implica atender las objeciones de la minoría para asegurar un acuerdo sólido y representativo.",
+    "ref": "2025-NORMALIZACION.pdf, pág. 15",
+    "link": "https://eva.fing.edu.uy/mod/folder/view.php?id=45512",
+    "img":"/ControlDeCalidad/3.png"
   },
   {
     "quest": "En el control de calidad, ¿cuál es el tercer paso del procedimiento operativo?",
-    "a": "Elegir lo que se va a controlar", 
-    "b": "Crear un dispositivo para medir la característica", 
-    "c": "Fijar el valor estándar y especificar la característica de calidad", 
+    "a": "Elegir lo que se va a controlar",
+    "b": "Crear un dispositivo para medir la característica",
+    "c": "Fijar el valor estándar y especificar la característica de calidad",
     "d": "Interpretar la diferencia entre lo real y lo estándar",
-    "ansower": "c"
+    "ansower": "c",
+    "text": "El tercer paso es establecer el valor estándar antes de medir y comparar las diferencias.",
+    "ref": "2024-Control de Calidad.pdf, pág. 15",
+    "img": "/ControlDeCalidad/1.png",
+    "link": "https://eva.fing.edu.uy/mod/folder/view.php?id=45512"
+  },
+   {
+    "quest": "¿Cómo define la Guía UNIT‑ISO/IEC 2:2005 una norma ISO?",
+    "a": "Documento obligatorio con carácter de ley para todos los estados miembros",
+    "b": "Documento establecido por consenso y aprobado por un organismo reconocido para un uso común y repetitivo",
+    "c": "Requisito contractual impuesto por un organismo internacional",
+    "d": "Código de buenas prácticas con recomendaciones no vinculantes",
+    "ansower": "b",
+    "text": "Según la Guía UNIT-ISO/IEC 2:2005 (Apartado 3.2), una norma es un documento establecido por consenso, aprobado por un organismo reconocido, para un uso común y repetitivo.",
+    "ref": "2025-NORMALIZACION.pdf, págs. 9",
+    "img": "/ControlDeCalidad/2.png",
+    "link": "https://eva.fing.edu.uy/mod/folder/view.php?id=45512"
   },
   {
-    "quest": "¿Cuál de estas afirmaciones sobre el control de calidad es CORRECTA?",
-    "a": "El control de calidad es responsable de crear la calidad del producto", 
-    "b": "La calidad se obtiene en el proceso de producción; el control solo la verifica", 
-    "c": "El control de calidad puede resolver todos los problemas de fabricación", 
-    "d": "La clasificación de productos y el control de calidad son exactamente lo mismo",
-    "ansower": "b"
+    "quest": "Según la clasificación de normas, ¿qué tipo establece características de un producto o servicio como niveles de calidad y seguridad?",
+    "a": "Reglamento técnico",
+    "b": "Especificación técnica",
+    "c": "Norma técnica",
+    "d": "Guía de buenas prácticas",
+    "ansower": "c",
+    "text": "Una norma técnica establece características de un producto o servicio como niveles de calidad, funcionamiento y seguridad.",
+    "ref": "2025-NORMALIZACION.pdf, pág. 17",
+    "img": "/ControlDeCalidad/4.png",
+    "link": "https://eva.fing.edu.uy/mod/folder/view.php?id=45512"
+
   },
   {
-    "quest": "Según ISO 9000:2015, ¿qué significa ‘evaluación de la conformidad’?",
-    "a": "Proceso de diseño de un producto para cumplir requisitos", 
-    "b": "Demostración de que se cumplen los requisitos especificados relativos a un producto, proceso, sistema, persona u organismo", 
-    "c": "Certificación obligatoria por parte de un organismo nacional", 
-    "d": "Inspección visual sin pruebas complementarias",
-    "ansower": "b"
+    "quest": "¿Qué es la Evaluación de la Conformidad?",
+    "a": "Control aleatorio de productos sin criterios previos",
+    "b": "Demostración de que se cumplen los requisitos especificados para un objeto, sistema o persona",
+    "c": "Inspección visual sin pruebas técnicas",
+    "d": "Certificado de calidad emitido internamente sin verificación",
+    "ansower": "b",
+    "text": "La Evaluación de la Conformidad es la demostración de que se cumplen los requisitos especificados relativos a un producto, proceso o sistema.",
+    "ref": "2024-Control de Calidad.pdf, pág. 16",
+    "img": "/ControlDeCalidad/5.png",
+    "link": "https://eva.fing.edu.uy/mod/folder/view.php?id=45512"
+
   },
   {
-    "quest": "¿Cuál es uno de los principales beneficios del control de calidad basado en datos reales?",
-    "a": "Se basa en la experiencia personal y la intuición", 
-    "b": "Permite detectar defectos antes de que aparezcan en el producto final utilizando gráficos de control", 
-    "c": "Elimina la necesidad de instrumental especializado", 
-    "d": "Asegura la unanimidad en la toma de decisiones",
-    "ansower": "b"
-  },
-  {
-    "quest": "En un reglamento técnico referenciado a normas, la mención ‘sin fecha’ significa:",
-    "a": "Rige automáticamente la última versión",
-    "b": "Sólo aplica a la versión original",
-    "c": "Requiere actualización anual",
-    "d": "Debe acompañarse de fecha obligatoria",
-    "ansower": "a"
-  },
-  {
-    "quest": "Trampa semántica: ¿Cuál NO es un beneficio del Control de Calidad?",
-    "a": "Aumento de la producción",
-    "b": "Conciencia de la calidad",
-    "c": "Incorporar calidad al producto",
-    "d": "Reducción de costos unitarios",
-    "ansower": "c"
+    "quest": "¿Cuál es uno de los beneficios más importantes del Control de Calidad?",
+    "a": "Aumentar los costos unitarios",
+    "b": "Acción preventiva para detectar defectos antes de la entrega",
+    "c": "Reducir la moral del personal",
+    "d": "Generar conflictos entre supervisores",
+    "ansower": "b",
+    "text": "La acción preventiva es clave: permite detectar defectos durante el proceso productivo y no en el producto final.",
+    "ref": "2024-Control de Calidad.pdf, pág. 19",
+    "img": "/ControlDeCalidad/6.png",
+    "link": "https://eva.fing.edu.uy/mod/folder/view.php?id=45512"
   }
 ]
