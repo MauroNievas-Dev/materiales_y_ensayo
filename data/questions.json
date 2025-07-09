@@ -84,5 +84,88 @@
     "ref": "2024-Control de Calidad.pdf, pág. 19",
     "img": "/ControlDeCalidad/6.png",
     "link": "https://eva.fing.edu.uy/mod/folder/view.php?id=45512"
+  },
+   {
+    "quest": "¿Qué caracteriza principalmente a una Especificación Técnica según la Guía UNIT-ISO/IEC 2:2005?",
+    "a": "Es un reglamento de cumplimiento obligatorio en todos los casos",
+    "b": "Es un documento que define términos lingüísticos para un producto",
+    "c": "Refleja el estado del arte, tiene carácter voluntario y considera las necesidades de los usuarios",
+    "d": "Es un instructivo interno sin validez externa",
+    "ansower": "c",
+    "text": "Las Especificaciones Técnicas reflejan el estado del arte, tienen carácter voluntario y se ajustan a las necesidades de los usuarios.",
+    "ref": "2025-NORMALIZACION.pdf, pág. 16",
+    "img": "/ControlDeCalidad/7.png",
+    "link": "https://eva.fing.edu.uy/mod/folder/view.php?id=45512"
+  },
+  {
+    "quest": "¿Qué permite la 'referencia a normas' en la legislación técnica?",
+    "a": "Complica y retrasa el trabajo legislativo",
+    "b": "Facilita la adaptación a los progresos técnicos y simplifica el trabajo legislativo",
+    "c": "Evita la participación de las partes interesadas",
+    "d": "Elimina la obligación de cumplir con requisitos técnicos",
+    "ansower": "b",
+    "text": "Referenciar normas simplifica y acelera el trabajo legislativo, adaptándolo a avances técnicos y evitando divergencias.",
+    "ref": "2025-NORMALIZACION.pdf, pág. 20",
+    "img": "/ControlDeCalidad/8.png",
+    "link": "https://eva.fing.edu.uy/mod/folder/view.php?id=45512"
+  },
+  {
+    "quest": "Según la UNIT ISO 9000:2015, ¿qué significa 'Calidad de Diseño'?",
+    "a": "Grado en el que el producto cumple su función operativa",
+    "b": "Grado de respaldo del fabricante ante fallas",
+    "c": "Grado de concordancia entre el diseño del producto y el fin para el cual ha sido creado",
+    "d": "Grado de inspección durante la fabricación",
+    "ansower": "c",
+    "text": "La Calidad de Diseño se refiere a cuán bien el diseño satisface las necesidades para las que fue creado.",
+    "ref": "2024-Control de Calidad.pdf, pág. 10",
+    "img": "/ControlDeCalidad/9.png",
+    "link": "https://eva.fing.edu.uy/mod/folder/view.php?id=45512"
+  },
+  {
+    "quest": "¿Cuál es la diferencia entre Calidad de Conformidad y Calidad de Diseño?",
+    "a": "No hay diferencia, son términos sinónimos",
+    "b": "La Calidad de Conformidad evalúa la concordancia entre el producto fabricado y su diseño",
+    "c": "La Calidad de Conformidad mide solo la satisfacción del usuario",
+    "d": "La Calidad de Diseño mide el proceso de fabricación",
+    "ansower": "b",
+    "text": "La Calidad de Conformidad indica en qué grado el producto fabricado reproduce el diseño previsto.",
+    "ref": "2024-Control de Calidad.pdf, pág. 11",
+    "img": "/ControlDeCalidad/10.png",
+    "link": "https://eva.fing.edu.uy/mod/folder/view.php?id=45512"
+  },
+  {
+    "quest": "¿Qué es un Reglamento Técnico según la Guía UNIT‑ISO/IEC?",
+    "a": "Una guía de buenas prácticas sin carácter vinculante",
+    "b": "Un documento que proporciona requisitos técnicos por referencia o incorporando normas",
+    "c": "Un acuerdo verbal entre partes interesadas",
+    "d": "Un instructivo interno sin validez oficial",
+    "ansower": "b",
+    "text": "Un Reglamento Técnico especifica requisitos técnicos directamente, o por referencia a normas o códigos.",
+    "ref": "2025-NORMALIZACION.pdf, pág. 18",
+    "img": "/ControlDeCalidad/11.png",
+    "link": "https://eva.fing.edu.uy/mod/folder/view.php?id=45512"
+  },
+  {
+    "quest": "¿Cuál es uno de los beneficios del Control de Calidad relacionado con el costo?",
+    "a": "Aumenta los costos unitarios por retrabajos",
+    "b": "Permite reducir los costos unitarios al disminuir rechazos y desperdicios",
+    "c": "Eleva los costos de inspección final",
+    "d": "Genera mayores costos por supervisión adicional",
+    "ansower": "b",
+    "text": "El Control de Calidad reduce costos unitarios al minimizar rechazos, desperdicio de materiales y mano de obra.",
+    "ref": "2024-Control de Calidad.pdf, pág. 20",
+    "img": "/ControlDeCalidad/12.png",
+    "link": "https://eva.fing.edu.uy/mod/folder/view.php?id=45512"
+  },
+  {
+    "quest": "¿Qué implica la acreditación dentro de las actividades de Evaluación de la Conformidad?",
+    "a": "Una autoevaluación del proveedor",
+    "b": "Una certificación de un tercero sobre la competencia de un organismo de evaluación",
+    "c": "Una simple inspección visual",
+    "d": "Un proceso interno sin validación externa",
+    "ansower": "b",
+    "text": "La acreditación certifica formalmente que un organismo de evaluación de la conformidad es competente.",
+    "ref": "2024-Control de Calidad.pdf, pág. 18",
+    "img": "/ControlDeCalidad/13.png"
   }
 ]
