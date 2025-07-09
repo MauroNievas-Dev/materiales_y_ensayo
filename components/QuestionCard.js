@@ -4,6 +4,11 @@ import { useState, useEffect } from 'react';
 export default function QuestionCard({ question, onAnswer }) {
   const [selected, setSelected] = useState(null);
 
+  // Reset the selected option when the question changes
+  useEffect(() => {
+    setSelected(null);
+  }, [question]);
+
   function handleSubmit(e) {
     e.preventDefault();
     if (selected) onAnswer(selected);
