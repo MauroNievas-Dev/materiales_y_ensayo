@@ -19,7 +19,7 @@ export default function Home() {
   }, []);
 
   function handleAnswer(selected) {
-    if (selected === current.ansower) setScore(s=>s+1);
+    if (selected === current.answer) setScore(s=>s+1);
     setAnswers(prev=>[...prev,{...current, selected}]);
     const nextIdx = questions.indexOf(current)+1;
     nextIdx<questions.length ? setCurrent(questions[nextIdx]) : setFinished(true);
@@ -39,8 +39,8 @@ export default function Home() {
               <li key={i} className="review">
                 <strong>{q.quest}</strong><br/>
                 <br/>
-                <b>Tu respuesta</b>: {q[q.selected]} {q.selected===q.ansower?'✅':'❌'}<br/><br/>
-                <b>Respuesta correcta</b>: {q[q.ansower]}<br/><br/>
+                <b>Tu respuesta</b>: {q[q.selected]} {q.selected===q.answer?'✅':'❌'}<br/><br/>
+                <b>Respuesta correcta</b>: {q[q.answer]}<br/><br/>
                
                 {q.img && <Image src={q.img} 
                   width={500}
@@ -57,5 +57,4 @@ export default function Home() {
         <QuestionCard question={current} onAnswer={handleAnswer} />
       )}
     </div>
-  );
-}
+  );}
