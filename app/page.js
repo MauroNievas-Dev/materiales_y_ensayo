@@ -47,15 +47,34 @@ export default function Home() {
 
   const subjectNames = Object.keys(subjectsData);
 
+  // Load selected subject from localStorage on mount
+  useEffect(() => {
+    const savedSubject = localStorage.getItem('selectedSubject');
+    if (savedSubject) setSelectedSubject(savedSubject);
+  }, []);
+
   // Initialize counts when subject changes
   useEffect(() => {
     if (selectedSubject) {
-      const topics = Object.keys(subjectsData[selectedSubject]);
-      const init = {};
-      topics.forEach(t => { init[t] = 0; });
-      setTopicCounts(init);
+      const stored = localStorage.getItem(`counts-${selectedSubject}`);
+      if (stored) {
+        setTopicCounts(JSON.parse(stored));
+      } else {
+        const topics = Object.keys(subjectsData[selectedSubject]);
+        const init = {};
+        topics.forEach(t => { init[t] = 0; });
+        setTopicCounts(init);
+      }
+      localStorage.setItem('selectedSubject', selectedSubject);
     }
   }, [selectedSubject]);
+
+  // Persist topic counts
+  useEffect(() => {
+    if (selectedSubject) {
+      localStorage.setItem(`counts-${selectedSubject}`, JSON.stringify(topicCounts));
+    }
+  }, [topicCounts, selectedSubject]);
 
   function handleCountChange(topic, value) {
     setTopicCounts(prev => ({ ...prev, [topic]: Number(value) }));
@@ -66,7 +85,10 @@ export default function Home() {
     const selected = [];
     Object.entries(topicCounts).forEach(([topic, count]) => {
       const pool = subjectsData[selectedSubject][topic];
-      const slice = [...pool].sort(() => 0.5 - Math.random()).slice(0, count);
+      const slice = [...pool]
+        .sort(() => 0.5 - Math.random())
+        .slice(0, count)
+        .map(q => ({ ...q, topic }));
       selected.push(...slice);
     });
     const shuffled = selected.sort(() => 0.5 - Math.random());
@@ -130,6 +152,7 @@ export default function Home() {
     return (
       <div className="container">
         <h1>{selectedSubject}</h1>
+        {current && <h2>{current.topic}</h2>}
         {current
           ? <QuestionCard question={current} onAnswer={handleAnswer} />
           : <p>Cargando preguntas...</p>
@@ -147,7 +170,8 @@ export default function Home() {
       <ul>
         {answers.map((q, i) => (
           <li key={i} className="review">
-            <strong>{q.quest}</strong><br/><br/>
+            <strong>{q.quest}</strong><br/>
+            <em>{q.topic}</em><br/><br/>
             <b>Tu respuesta</b>: {q[q.selected]} {q.selected === q.answer ? '✅' : '❌'}<br/><br/>
             <b>Respuesta correcta</b>: {q[q.answer]}<br/><br/>
             {q.img && <Image src={q.img} width={500} height={500} alt="Referencia PDF" className="ref-img" />}<br/>

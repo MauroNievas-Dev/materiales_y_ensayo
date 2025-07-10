@@ -37,7 +37,7 @@ h1 {
   margin-top: 0px;
 }
 .container {
-  width: 100%;
+  width: 100vw;
   min-height: 100vh;
   background: #fff;
   padding: 2rem;
