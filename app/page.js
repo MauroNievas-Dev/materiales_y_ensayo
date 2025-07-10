@@ -112,7 +112,7 @@ export default function Home() {
   // Configuration step
   if (step === 'config') {
     return (
-      <div className="container">
+      <div className="containerCustom">
         <h1>Configurar Quiz</h1>
         <form onSubmit={startQuiz}>
           <div className="option">

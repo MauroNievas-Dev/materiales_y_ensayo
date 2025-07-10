@@ -1,0 +1,86 @@
+[
+  {
+    "quest": "¿Cuál es la definición principal de un material aglomerante?",
+    "a": "Sustancia líquida que solo sirve para pintar superficies",
+    "b": "Sustancia granulada sin poder cementante",
+    "c": "Sustancia finamente molida que mezclada con agua forma una pasta con poder cementante",
+    "d": "Piedra caliza en bruto sin procesar",
+    "answer": "c",
+    "text": "Un aglomerante es una sustancia finamente molida que mezclada con agua forma una pasta que puede unir fragmentos de otras sustancias.",
+    "ref": "Aglomerantes y morteros - Curso 2025.pdf, pág. 3",
+    "img": "/Aglomerantes_Y_Morteros/1.png",
+    "link": "https://eva.fing.edu.uy/course/section.php?id=21425"
+  },
+  {
+    "quest": "¿Qué tipo de aglomerantes endurecen solo en contacto con el aire?",
+    "a": "Aglomerantes hidráulicos",
+    "b": "Aglomerantes mixtos",
+    "c": "Aglomerantes sintéticos",
+    "d": "Aglomerantes aéreos o no hidráulicos",
+    "answer": "d",
+    "text": "Los aglomerantes aéreos, como la cal aérea o el yeso, endurecen únicamente en presencia del aire.",
+    "ref": "Aglomerantes y morteros - Curso 2025.pdf, pág. 6",
+    "img": "/Aglomerantes_Y_Morteros/2.png",
+    "link": "https://eva.fing.edu.uy/course/section.php?id=21425"
+  },
+  {
+    "quest": "¿Cuál es la reacción química de la etapa de calcinación de la cal aérea?",
+    "a": "CaCO₃ + H₂O = Ca(OH)₂",
+    "b": "CaO + CO₂ = CaCO₃ + H₂O",
+    "c": "CaCO₃ + Calor (900ºC) = CO₂ + CaO",
+    "d": "Ca(OH)₂ + H₂O = CaO",
+    "answer": "c",
+    "text": "En la calcinación, el carbonato de calcio se descompone con calor a 900°C, liberando CO₂ y formando óxido de calcio (cal viva).",
+    "ref": "Aglomerantes y morteros - Curso 2025.pdf, pág. 22",
+    "img": "/Aglomerantes_Y_Morteros/3.png",
+    "link": "https://eva.fing.edu.uy/course/section.php?id=21425"
+  },
+  {
+    "quest": "¿Qué sucede en la etapa de apagado de la cal?",
+    "a": "Se forma yeso hemihidratado",
+    "b": "Se mezcla con arena para formar mortero",
+    "c": "El óxido de calcio reacciona con agua formando hidróxido de calcio",
+    "d": "Se libera dióxido de carbono",
+    "answer": "c",
+    "text": "El apagado implica la hidratación del óxido de calcio, formando hidróxido de calcio o cal apagada.",
+    "ref": "Aglomerantes y morteros - Curso 2025.pdf, pág. 23",
+    "img": "/Aglomerantes_Y_Morteros/4.png",
+    "link": "https://eva.fing.edu.uy/course/section.php?id=21425"
+  },
+  {
+    "quest": "¿Cuál es la última etapa del ciclo de la cal aérea?",
+    "a": "Evaporación",
+    "b": "Carbonatación",
+    "c": "Filtración",
+    "d": "Cocción a alta presión",
+    "answer": "b",
+    "text": "En la carbonatación, el hidróxido de calcio absorbe CO₂ del aire y se convierte nuevamente en carbonato de calcio.",
+    "ref": "Aglomerantes y morteros - Curso 2025.pdf, pág. 24",
+    "img": "/Aglomerantes_Y_Morteros/5.png",
+    "link": "https://eva.fing.edu.uy/course/section.php?id=21425"
+  },
+  {
+    "quest": "¿Qué tipo de horno es común en la fabricación de cal aérea?",
+    "a": "Horno rotatorio continuo",
+    "b": "Horno microondas",
+    "c": "Horno solar",
+    "d": "Horno criogénico",
+    "answer": "a",
+    "text": "Para la cocción de la cal aérea se usan hornos continuos verticales o rotatorios para mantener la temperatura adecuada.",
+    "ref": "Aglomerantes y morteros - Curso 2025.pdf, pág. 26",
+    "img": "/Aglomerantes_Y_Morteros/6.png",
+    "link": "https://eva.fing.edu.uy/course/section.php?id=21425"
+  },
+  {
+    "quest": "¿Qué fenómeno indeseado ocurre si la cal no se apaga completamente?",
+    "a": "Formación de yeso",
+    "b": "Fenómeno de 'Caliche'",
+    "c": "Deshidratación excesiva",
+    "d": "Oxidación del yeso",
+    "answer": "b",
+    "text": "Si quedan partículas sin hidratar, estas se expanden con el tiempo, causando grietas o desprendimientos conocidos como caliche.",
+    "ref": "Aglomerantes y morteros - Curso 2025.pdf, pág. 27",
+    "img": "/Aglomerantes_Y_Morteros/7.png",
+    "link": "https://eva.fing.edu.uy/course/section.php?id=21425"
+  }
+]
