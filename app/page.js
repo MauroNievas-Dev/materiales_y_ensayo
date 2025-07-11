@@ -150,7 +150,7 @@ export default function Home() {
   // Quiz step
   if (step === 'quiz') {
     return (
-      <div className="container">
+      <div className="containerCustom">
         <h1>{selectedSubject}</h1>
         {current && <h2>{current.topic}</h2>}
         {current
@@ -163,7 +163,7 @@ export default function Home() {
 
   // Finished step
   return (
-    <div className="container results">
+    <div className="containerCustom results">
       <h1>{selectedSubject}</h1>
       <p>Terminaste! Puntaje: {score} / {questions.length}</p>
       <h2>Respuestas detalladas:</h2>
@@ -177,6 +177,8 @@ export default function Home() {
             {q.img && <Image src={q.img} width={500} height={500} alt="Referencia PDF" className="ref-img" />}<br/>
             <em>{q.text}</em><br/>
             <small>{q.ref}</small> {q.link && <a href={q.link}>RECURSO</a>}
+
+            <hr />
           </li>
         ))}
       </ul>

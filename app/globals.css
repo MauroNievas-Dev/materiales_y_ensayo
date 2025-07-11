@@ -29,9 +29,18 @@ body {
 }
 h1 {
   font-weight: 900;
-  font-size: 25px;
+  font-size: 30px;
   padding-bottom: 40px;
   margin-top: 0px;
+}
+h2 {
+  font-weight: 550;
+  font-size: 18px;
+  padding-bottom: 40px;
+  margin-top: 0px;
+}
+li {
+  margin-bottom: 10px;
 }
 .containerCustom {
   width: 100%;
