@@ -82,5 +82,89 @@
     "ref": "Aglomerantes y morteros - Curso 2025.pdf, pág. 27",
     "img": "/Aglomerantes_Y_Morteros/7.png",
     "link": "https://eva.fing.edu.uy/course/section.php?id=21425"
+  },
+  {
+    "quest": "¿Qué sucede durante el fraguado de un aglomerante?",
+    "a": "La masa gana plasticidad y fluidez",
+    "b": "La masa pierde plasticidad y aumenta viscosidad hasta endurecerse",
+    "c": "Se vuelve líquida para facilitar su aplicación",
+    "d": "El fraguado solo ocurre bajo agua",
+    "ansower": "b",
+    "text": "El fraguado es el proceso donde la pasta pierde plasticidad, aumenta su viscosidad y se vuelve indeformable para cargas pequeñas.",
+    "ref": "Aglomerantes y morteros - Curso 2025.pdf, pág. 8",
+    "img": "/Aglomerantes_Y_Morteros/8.png",
+    "link": "https://eva.fing.edu.uy/course/section.php?id=21425"
+  },
+  {
+    "quest": "¿Qué factor NO afecta el fraguado de un aglomerante?",
+    "a": "Temperatura",
+    "b": "Humedad",
+    "c": "Finura del aglomerante",
+    "d": "Color de la piedra caliza",
+    "ansower": "d",
+    "text": "La temperatura, la humedad, los aditivos y la finura sí afectan el fraguado; el color no tiene incidencia técnica.",
+    "ref": "Aglomerantes y morteros - Curso 2025.pdf, pág. 9",
+    "img": "/Aglomerantes_Y_Morteros/9.png",
+    "link": "https://eva.fing.edu.uy/course/section.php?id=21425"
+  },
+  {
+    "quest": "¿Qué característica diferencia a un mortero fresco?",
+    "a": "Es rígido e indeformable",
+    "b": "Debe ser trabajable, plástico y adherente",
+    "c": "Tiene resistencia mecánica inmediata",
+    "d": "No contiene agua de amasado",
+    "ansower": "b",
+    "text": "El mortero en estado fresco debe ser trabajable y capaz de adherirse a las superficies.",
+    "ref": "Aglomerantes y morteros - Curso 2025.pdf, pág. 56",
+    "img": "/Aglomerantes_Y_Morteros/10.png",
+    "link": "https://eva.fing.edu.uy/course/section.php?id=21425"
+  },
+  {
+    "quest": "¿Cuál es la propiedad clave del mortero endurecido?",
+    "a": "Flexibilidad para moldearse de nuevo",
+    "b": "Alta fluidez para nivelarse",
+    "c": "Resistencia mecánica y durabilidad",
+    "d": "Mantener humedad constante",
+    "ansower": "c",
+    "text": "En estado endurecido, la resistencia mecánica y la durabilidad son propiedades clave del mortero.",
+    "ref": "Aglomerantes y morteros - Curso 2025.pdf, pág. 62",
+    "img": "/Aglomerantes_Y_Morteros/11.png",
+    "link": "https://eva.fing.edu.uy/course/section.php?id=21425"
+  },
+  {
+    "quest": "¿Qué significa 'retención de agua' en un mortero fresco?",
+    "a": "Capacidad de absorber agua de lluvia",
+    "b": "Capacidad de mantener el agua de amasado ante succión externa",
+    "c": "Capacidad de perder agua rápidamente",
+    "d": "No tiene importancia en el mortero",
+    "ansower": "b",
+    "text": "Es la capacidad del mortero de retener su agua de amasado ante succión del material base.",
+    "ref": "Aglomerantes y morteros - Curso 2025.pdf, pág. 61",
+    "img": "/Aglomerantes_Y_Morteros/12.png",
+    "link": "https://eva.fing.edu.uy/course/section.php?id=21425"
+  },
+  {
+    "quest": "¿Qué proporción es típica para un mortero de cemento portland en capas de revoque exterior?",
+    "a": "1 parte de cemento : 1 parte de arena",
+    "b": "1 parte de cemento : 3 partes de arena",
+    "c": "1 parte de cemento : 5 partes de arena",
+    "d": "1 parte de cemento : 7 partes de arena",
+    "ansower": "b",
+    "text": "Para capas de revoque exterior con cemento portland se usa normalmente una proporción 1:3 (cemento : arena).",
+    "ref": "Aglomerantes y morteros - Curso 2025.pdf, pág. 67",
+    "img": "/Aglomerantes_Y_Morteros/13.png",
+    "link": "https://eva.fing.edu.uy/course/section.php?id=21425"
+  },
+  {
+    "quest": "¿Cuál es un uso común del yeso en construcción?",
+    "a": "Estructuras portantes",
+    "b": "Revestimientos de muros y molduras decorativas",
+    "c": "Pavimentos exteriores",
+    "d": "Refuerzo de hormigones",
+    "ansower": "b",
+    "text": "El yeso se usa principalmente para revestir paramentos, tabiques, bóvedas y molduras decorativas.",
+    "ref": "Aglomerantes y morteros - Curso 2025.pdf, pág. 49",
+    "img": "/Aglomerantes_Y_Morteros/14.png",
+    "link": "https://eva.fing.edu.uy/course/section.php?id=21425"
   }
 ]
