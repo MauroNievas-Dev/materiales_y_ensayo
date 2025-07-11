@@ -1,0 +1,87 @@
+[
+  {
+    "quest": "¿Cuál es la principal característica de las piedras naturales ornamentales?",
+    "a": "Se obtienen de procesos químicos artificiales",
+    "b": "Se extraen directamente de la naturaleza y se usan como elementos decorativos",
+    "c": "Son materiales aglomerados con bajo valor estético",
+    "d": "Se producen exclusivamente en hornos industriales",
+    "ansower": "b",
+    "text": "Las piedras naturales ornamentales se extraen de la naturaleza y se utilizan ampliamente en arquitectura por su valor decorativo y resistencia.",
+    "ref": "Clase Pétreos _2024.pdf, pág. 3",
+    "img": "/Petreos/1.png",
+    "link": "https://eva.fing.edu.uy/course/section.php?id=1413"
+  },
+  {
+    "quest": "¿Qué piedra natural se usa comúnmente en cubiertas como pizarras delgadas?",
+    "a": "Granito",
+    "b": "Mármol",
+    "c": "Pizarra",
+    "d": "Basalto",
+    "ansower": "c",
+    "text": "La pizarra, por su resistencia y delgadez, es ideal para cubiertas y techos.",
+    "ref": "Clase Pétreos _2024.pdf, pág. 8",
+    "img": "/Petreos/2.png",
+    "link": "https://eva.fing.edu.uy/course/section.php?id=1413"
+
+  },
+  {
+    "quest": "¿Cuál de estos materiales pétreos se clasifica como roca ígnea intrusiva?",
+    "a": "Basalto",
+    "b": "Pizarra",
+    "c": "Granito",
+    "d": "Arenisca",
+    "ansower": "c",
+    "text": "El granito es una roca ígnea intrusiva que se enfría lentamente bajo la superficie terrestre, generando cristales grandes y alta resistencia.",
+    "ref": "Clase Pétreos _2024.pdf, pág. 39",
+    "img": "/Petreos/3.png",
+    "link": "https://eva.fing.edu.uy/course/section.php?id=1413"
+  },
+  {
+    "quest": "¿Qué es un aplacado en construcción?",
+    "a": "Capa impermeable de mortero",
+    "b": "Revestimiento vertical de paramentos con piedras naturales",
+    "c": "Base estructural de concreto armado",
+    "d": "Elemento prefabricado de hormigón",
+    "ansower": "b",
+    "text": "Los aplacados son revestimientos verticales en muros y fachadas, decorativos y protectores contra agentes externos.",
+    "ref": "Clase Pétreos _2024.pdf, pág. 8",
+    "img": "/Petreos/4.png",
+    "link": "https://eva.fing.edu.uy/course/section.php?id=1413"
+  },
+  {
+    "quest": "¿Qué material pétreo se forma por sedimentación mecánica?",
+    "a": "Granito",
+    "b": "Arenisca",
+    "c": "Basalto",
+    "d": "Gabro",
+    "ansower": "b",
+    "text": "La arenisca es una roca sedimentaria formada por la acumulación y compactación de partículas por procesos mecánicos.",
+    "ref": "Clase Pétreos _2024.pdf, pág. 45",
+    "img": "/Petreos/5.png",
+    "link": "https://eva.fing.edu.uy/course/section.php?id=1413"
+  },
+  {
+    "quest": "¿Qué propiedad es clave en un mineral para ser definido como tal?",
+    "a": "Debe ser una sustancia líquida orgánica",
+    "b": "Debe tener estructura cristalina y composición química definida",
+    "c": "Debe ser maleable como los metales",
+    "d": "Debe tener dureza Mohs superior a 5",
+    "ansower": "b",
+    "text": "Todo mineral es una sustancia natural, inorgánica, con composición química y estructura cristalina definida.",
+    "ref": "Clase Pétreos _2024.pdf, pág. 13",
+    "img": "/Petreos/6.png",
+    "link": "https://eva.fing.edu.uy/course/section.php?id=1413"
+  },
+  {
+    "quest": "¿Qué propiedad física de los minerales se determina con la Escala de Mohs?",
+    "a": "Brillo",
+    "b": "Clivaje",
+    "c": "Peso específico",
+    "d": "Dureza relativa",
+    "ansower": "d",
+    "text": "La dureza relativa mide la resistencia al rayado de un mineral y se evalúa mediante la escala de Mohs, del 1 al 10.",
+    "ref": "Clase Pétreos _2024.pdf, pág. 18",
+    "img": "/Petreos/7.png",
+    "link": "https://eva.fing.edu.uy/course/section.php?id=1413"
+  }
+]
